@@ -12,7 +12,7 @@
  * Editor de texto (ej. Visual Studio Code)
  
  ### Instalación 🔧
- 1. Copiar la carpeta que contiene el software en el directorio "htdocs" que se encuentra ubicado donde se instaló XAMPP.
+ 1. Copiar la carpeta que contiene el software en el directorio *htdocs* que se encuentra ubicado donde se instaló XAMPP.
  2. Iniciar el módulo Apache y MySQL de XAMPP.
  3. Abrir la carpeta de ORGANILAB con un editor de texto y modificar el archivo .env en las siguientes variables:
     ```
@@ -35,7 +35,7 @@
 * [XAMPP](https://www.apachefriends.org/es/index.html) - Apache + MariaDB
  
  ## Wiki 📖
-*En desarrollo*
+*En desarrollo.*
  ## Autores ✒️
  * I. Cardemil
  * O. Flores
@@ -43,4 +43,4 @@
  * J. Vásquez
  
  ## Plantilla de README 👀
- [Villanuevand/README-español.md](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
+ [/README-español.md](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
