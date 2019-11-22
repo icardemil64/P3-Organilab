@@ -8,8 +8,8 @@
  ### Instalación 🔧
  
  ## Construido con 🛠️
- [Laravel 5.8](https://laravel.com/docs/5.8/releases) - El framework web usado
- [XAMPP](https://www.apachefriends.org/es/index.html) - Apache + MariaDB
+* [Laravel 5.8](https://laravel.com/docs/5.8/releases) - El framework web usado
+* [XAMPP](https://www.apachefriends.org/es/index.html) - Apache + MariaDB
  
  ## Wiki 📖
  
