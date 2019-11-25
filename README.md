@@ -1,5 +1,5 @@
 # Organilab 🖥
- Software diseñado para el departamento de computación e informática con la finalidad de facilitar la gestión de recursos del departamento de informática.
+ Software diseñado para el departamento de computación e informática con la finalidad de facilitar la gestión sus recursos.
  
  ## Inicio 🚀
  
