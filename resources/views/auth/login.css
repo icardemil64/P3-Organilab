@@ -1,0 +1,65 @@
+
+iframe{
+    width: 80%;
+    height: 60vh;
+}
+body{
+    margin: 10px 10px;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(fondo_login.jpg) no-repeat ;
+    background-size: cover;
+    
+    
+}
+.login-box{
+    width: 250px;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    color: rgb(255, 255, 255);
+}
+.login-box h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 3px solid #5BEC08 ;
+    margin-bottom: 50px  ;
+    padding: 13px 0   ;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #5BEC08 ;
+}
+.textbox i{
+    width: 26px;
+    float: left;
+    text-align: center;
+
+}
+.textbox input{
+    border : none;
+    outline: none;
+    background: none;
+    color : white ;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin : 0 10px;
+
+}
+.btn{
+    width: 200px;
+    background: none;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid  #5BEC08 ;
+    cursor: pointer;
+    margin: 12px 0 ;
+}
+
